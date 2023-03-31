@@ -1,0 +1,19 @@
+{
+  "name": "servidorde_fundamentosdeangular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zamir31/ServidorDe_FundamentosDeAngular.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zamir31/ServidorDe_FundamentosDeAngular/issues"
+  },
+  "homepage": "https://github.com/Zamir31/ServidorDe_FundamentosDeAngular#readme"
+}
